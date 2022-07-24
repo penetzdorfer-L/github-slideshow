@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to my second slide!"
 ---
-Your text
+Who even likes the Game of Thrones ending?
 Use the left arrow to go back!
